@@ -46,10 +46,12 @@ This project implements an automated facial recognition-based attendance system 
 ![4](https://github.com/ankur9301/Face_recongnitoN_attendacne_system_personal_final_project/assets/114321826/e7de475c-4338-4173-a7d6-2879adaf3fa8)
 
  
+<div>
     <a href="https://www.loom.com/share/bf674e2e128748a194c5ef4cdbdd1d7c">
-      <p>Personal Project: Facial Recognition Attendance System 👨‍💻 - Watch Video</p>
+
     </a>
     <a href="https://www.loom.com/share/bf674e2e128748a194c5ef4cdbdd1d7c">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/bf674e2e128748a194c5ef4cdbdd1d7c-with-play.gif">
     </a>
+  </div>
 
