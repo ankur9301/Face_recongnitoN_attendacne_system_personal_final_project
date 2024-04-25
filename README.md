@@ -37,5 +37,11 @@ This project implements an automated facial recognition-based attendance system 
 - More extensive handling of varied lighting conditions.
 
 
+![1](https://github.com/ankur9301/Face_recongnitoN_attendacne_system_personal_final_project/assets/114321826/6eb1e3d4-da31-46ef-b380-348c20ec1eb4)
 
+![2](https://github.com/ankur9301/Face_recongnitoN_attendacne_system_personal_final_project/assets/114321826/360afe66-4152-4918-b954-4934fe3f22e7)
+
+![3](https://github.com/ankur9301/Face_recongnitoN_attendacne_system_personal_final_project/assets/114321826/113cf706-0ca8-4b6a-b3b0-40cc436b0915)
+
+![4](https://github.com/ankur9301/Face_recongnitoN_attendacne_system_personal_final_project/assets/114321826/e7de475c-4338-4173-a7d6-2879adaf3fa8)
 
